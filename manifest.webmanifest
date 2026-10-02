@@ -1,0 +1,1 @@
+{"name": "Tyria Türkçe Panel", "short_name": "GW2 Panel", "start_url": "./", "display": "standalone", "background_color": "#12171a", "theme_color": "#b3261e", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]}
